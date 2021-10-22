@@ -1,0 +1,11 @@
+* Word List Generator
+Simple word list generator.
+
+** Getting Started
+In oder to run, you will need to have Rust 1.55 or later installed.
+
+In the project folder, run on your terminal:
+
+#+begin_src sh
+$ cargo run
+#+end_src
